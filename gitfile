@@ -1,5 +1,10 @@
 contents from tokyogit
 
 contents from fr2git
+<<<<<<< HEAD
 
 commit data from old snapshot
+=======
+modified brnach name. checking whether it reflects in GitHub
+edit master branch file from test branch
+>>>>>>> 9b7a1050262b3b76e0d3b7ab6c4c625920069fa6
